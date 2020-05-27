@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0252: Possível comparação de referência inesperada; o lado esquerdo precisa de conversão
+dotnet_diagnostic.CS0252.severity = none

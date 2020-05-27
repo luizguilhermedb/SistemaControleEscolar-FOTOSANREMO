@@ -1,0 +1,28 @@
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\Foto SanRemo.exe.config
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\Foto SanRemo.exe
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\Foto SanRemo.pdb
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Cadastro_Escola.resources
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Frm_Home.resources
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Properties.Resources.resources
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.exe
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.pdb
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Pedido.resources
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\ClosedXML.dll
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\FastMember.dll
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\System.IO.Packaging.dll
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\ClosedXML.pdb
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\ClosedXML.xml
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.csproj.ResolveComReference.cache
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.csproj.CopyComplete
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Impressao.resources
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Fotografo.resources
+C:\Users\User\Source\Repos\Foto SanRemo\bin\Debug\System.IO.Packaging.xml
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Representante.resources
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto SanRemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Foto SanRemo\obj\Debug\Foto_SanRemo.Produtos.resources
